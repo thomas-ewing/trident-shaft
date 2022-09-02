@@ -9,3 +9,5 @@ The objectives of this mod are:
  - deposit the treated air at a distant location from the offtake to prevent recirculation
  - use a single unmodified 5015 fan, minimal fasteners, and be printable on the trident
  - allow for easy replacement of the treatment media.
+ 
+ ![Summary Image](images/combined_sections.png?raw=true "Summary Image")
