@@ -13,6 +13,15 @@ The objectives of this mod are:
  
  # Design
  
- The upper portion attaches to the frame and holds the 5015 fan. The fan can be connected to the mainboard down one of the existing wire bundles along the frame. The middle section screws onto the upper section and holds the treatment media. The collar on teh middle section is print-in-place and should allow for a good deal with the upper section while allowing for appropriate direction of the exhaust. The lower section includes the printed mesh. For a finer mesh a circular portion of fly-screen can be cut and placed between the middle and lower parts. 
+ The upper portion attaches to the frame and holds the 5015 fan. The fan can be connected to the mainboard down one of the existing wire bundles along the frame. The middle section screws onto the upper section and holds the treatment media. The collar on the middle section is print-in-place and should allow for a good deal with the upper section while allowing for appropriate direction of the exhaust. The lower section includes the printed mesh. For a finer mesh a circular portion of fly-screen can be cut and placed between the middle and lower parts. 
  
  ![Summary Image](images/combined_sections.png?raw=true "Summary Image")
+ 
+ You will need:
+  - The three printed parts
+  - Two M3x25 bolts
+  - Two M3x8 bolts
+  - Three M3 t-nuts
+  - One M3 nut (any type)
+  
+It is recommended that the fan be operated at about 75% of maximum power or just enough to move air through the system without excess noise.
